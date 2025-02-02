@@ -60,7 +60,7 @@
         <tbody>
             <tr>
                 <td>
-                    <a href="https://drive.google.com/file/d/12UUzydAQgf6INNdFIMzZic-hnCd5g6AU/view" target="_blank">
+                    <a href="[https://drive.google.com/file/d/12UUzydAQgf6INNdFIMzZic-hnCd5g6AU/view](https://drive.google.com/file/d/1GsDoZ21orsV6fPt_6dei5MYtixh6O-Jd/view?usp=drive_link)" target="_blank">
                         <img src="Images/clube_artes.jpg" alt="LOGO Clube Artes Decorativas" />
                     </a>
                 </td>
